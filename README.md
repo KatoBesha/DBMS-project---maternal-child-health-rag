@@ -18,6 +18,8 @@ Given a user question, the system:
 4. Returns a grounded answer with source citations
 
 ---
+## Demo Video
+▶️ Watch the full demo here: https://drive.google.com/file/d/1gEvENCmx6Ey6hb9ezKIy94J5C9I66XEp/view?usp=sharing
 
 ## Repository Structure
 
